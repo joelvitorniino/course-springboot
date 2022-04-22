@@ -1,5 +1,6 @@
 package com.educandoweb.workshop.entities;
 
+import com.educandoweb.workshop.entities.enums.OrderStatus;
 import com.fasterxml.jackson.annotation.JsonFormat;
 
 import javax.persistence.*;
